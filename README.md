@@ -4,7 +4,7 @@
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README.md)
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README-en.md)
 
-Awesome Blockchain，包含书籍、媒体、文档、工具、论文、课程等。
+Awesome Blockchain，包含书籍、媒体、文档、工具、论文、课程、开发资源等。
 
 [中文](README.md) | [English](README-en.md)
 
@@ -16,6 +16,7 @@ Awesome Blockchain，包含书籍、媒体、文档、工具、论文、课程�
 * [awesome-blockchain-tools](https://github.com/BlockchainOne/awesome-blockchain-tools)
 * [awesome-blockchain-papers](https://github.com/BlockchainOne/awesome-blockchain-papers)
 * [awesome-blockchain-courses](https://github.com/BlockchainOne/awesome-blockchain-courses)
+* [awesome-blockchain-dev](https://github.com/BlockchainOne/awesome-blockchain-dev)
 
 ## License
 
