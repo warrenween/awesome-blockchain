@@ -20,6 +20,11 @@ Awesome Blockchain，包含书籍、媒体、文档、工具、论文、课程�
 * [awesome-blockchain-ex](https://github.com/BlockchainOne/awesome-blockchain-ex)
 * [awesome-blockchain-fund](https://github.com/BlockchainOne/awesome-blockchain-fund)
 
+## 捐赠
+
+* BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
+* ETH: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
